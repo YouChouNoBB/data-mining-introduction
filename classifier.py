@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
-
+# @author:bryan
+# blog: https://blog.csdn.net/bryan__
+# github: https://github.com/YouChouNoBB/sklearn-introduction/
 
 from sklearn import linear_model
 from sklearn.model_selection import train_test_split
