@@ -1,3 +1,6 @@
+# @author:bryan
+# blog: https://blog.csdn.net/bryan__
+# github: https://github.com/YouChouNoBB/sklearn-introduction/
 from __future__ import division
 import numpy as np
 from sklearn.model_selection import StratifiedKFold
