@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+# @author:bryan
+# blog: https://blog.csdn.net/bryan__
+# github: https://github.com/YouChouNoBB/sklearn-introduction/
 import pandas as pd
 import numpy as np
 path="d:/IJCAI/round1_ijcai_18_train_20180301.txt"
