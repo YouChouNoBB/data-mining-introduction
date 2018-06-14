@@ -10,6 +10,8 @@
 
 # pandas
 - 介绍pandas常用方法，包括数据读取与处理
+- 视频链接：https://tianchi.aliyun.com/forum/videoStream.html?spm=5176.11409386.0.0.1beb311f0tTQYO&postsId=5315#postsId=5315
+
 
 # randomForest
 - 介绍决策树，随机森林，以及代码实现
