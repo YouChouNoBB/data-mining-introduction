@@ -16,6 +16,10 @@
 # randomForest
 - 介绍决策树，随机森林，以及代码实现
 
+# 深度学习
+- 目标检测 https://tianchi.aliyun.com/forum/videoStream.html?spm=5176.11409386.0.0.1beb311f0tTQYO&postsId=3269#postsId=3269
+
 # 个人学习求职经历
 - 视频链接：https://tianchi.aliyun.com/competition/new_articleDetail.html?spm=5176.8366600.0.0.1686543adgkJAe&raceId=&postsId=2801
 - ppt: 链接: https://pan.baidu.com/s/1b9Wx6A 密码: tun5
+
